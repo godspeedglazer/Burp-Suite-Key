@@ -1,21 +1,18 @@
-MIT License
+ACADEMIC AND RESEARCH USE LICENSE
 
-Copyright (c) 2026 godspeedglazer
+Copyright (c) 2026, godspeedglazer
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. PERMITTED USE
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software strictly for the purposes of general security research, academic study, and the conceptual analysis of cryptographic or licensing mechanisms.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. MODIFICATION STRICTLY PROHIBITED
+The source code, binaries, and associated files of this Software may not be altered, modified, reverse-engineered, or used to create derivative works. Users are granted the right to run and analyze the Software in its original, unmodified state only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. PROHIBITED ACTIVITIES
+This Software is authorized for theoretical and isolated research only. It is explicitly forbidden to apply this Software to any production environment or utilize it to circumvent access controls.
+
+4. MANDATORY LEGAL WARNING
+UTILIZING THIS SOFTWARE FOR BYPASSING BURP SUITE PRO LICENSING GUIDELINES IS ILLEGAL. Any attempt to use this tool to generate unauthorized license keys, bypass PortSwigger's commercial software restrictions, or facilitate software piracy constitutes a direct violation of this license and applicable international copyright laws.
+
+5. DISCLAIMER OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
